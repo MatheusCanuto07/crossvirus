@@ -15,6 +15,9 @@
   import CardPlano from '$lib/client/components/cards/CardPlano.svelte'
   import Hero4 from '$lib/client/components/landing-page/hero/Hero4.svelte'  
   import Features from '$lib/client/components/landing-page/features/Features.svelte'
+  import About from '$lib/client/components/landing-page/about/About.svelte'
+  import ForWho from '$lib/client/components/landing-page/forWho/ForWho.svelte'
+  import Advantages from '$lib/client/components/landing-page/advantages/Advantages.svelte'
   
   // console.log(tailwind.theme.colors.primary)
 </script>
@@ -37,6 +40,9 @@
 </svelte:head>
 
 <Hero4 />
+<About />
+<ForWho />
+<Advantages />
 <Features />
 <Pricing />
 <Footer />
