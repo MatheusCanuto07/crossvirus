@@ -3,13 +3,15 @@
   
 </script>
 
-<div class="text-center">
-  <p class="text-fazemos ">O que fazemos?</p>
-  <h1 class="text-about">Sobre a empresa</h1>
-  <p class="text-sobre">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aliquid officiis laboriosam animi sapiente omnis voluptatibus, atque veritatis a, fuga quibusdam provident quos dolor cupiditate ad itaque nemo illum, ullam odit molestiae explicabo ab ipsum blanditiis reiciendis? Perspiciatis officiis earum sit aliquam dignissimos unde, iste nesciunt veniam eligendi cupiditate aperiam.
-  </p>
-  <a href="#" class="btn btn-color">Saiba mais</a>
+<div class="flex flex-col md:full md:flex-row md:space-x-8 px-10 lg:px-36 mt-5">
+  <div class="text-center my-20 ">
+    <p class="text-fazemos -mb-3">O que fazemos?</p>
+    <h1 class="text-about mb-5">Sobre a empresa</h1>
+    <p class="text-sobre">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aliquid officiis laboriosam animi sapiente omnis voluptatibus, atque veritatis a, fuga quibusdam provident quos dolor cupiditate ad itaque nemo illum, ullam odit molestiae explicabo ab ipsum blanditiis reiciendis? Perspiciatis officiis earum sit aliquam dignissimos unde, iste nesciunt veniam eligendi cupiditate aperiam.
+    </p>
+    <a href="#" class="btn btn-color mt-8">Saiba mais</a>
+  </div>
 </div>
 
 <style>
