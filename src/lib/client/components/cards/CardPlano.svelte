@@ -19,7 +19,7 @@
 </script>
 
 
-<div class=" px-4 mt-5">
+<div class="px-4 mt-5">
   <div class="card bg-neutral rounded-2xl text-accent px-6 py-4">
     <div class="text-center">
       <h2 class="font-semibold mt-3 text-2xl">{textCard.title ? textCard.title : "Metropoles" }</h2>

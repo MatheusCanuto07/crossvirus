@@ -25,7 +25,7 @@
           <div class="bg-gray-100 px-1 py-2 rounded-sm">
             <img src="images/Hospital.svg" alt="">
           </div>
-          <h1 class="text-sub-alvo ml-2 self-center">Hospitais</h1>
+          <h1 class="text-sub-alvo ml-2 self-center">Planos de saúde</h1>
         </div>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid veniam inventore aperiam enim rerum accusantium! Totam sint dolore et nesciunt accusantium.
@@ -49,8 +49,8 @@
   } 
   .text-sub-alvo{
     font-size: 18px;
-font-weight: 900;
-letter-spacing: 0%;
-text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 0%;
+    text-transform: uppercase;
   }
 </style>

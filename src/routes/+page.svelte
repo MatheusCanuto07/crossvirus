@@ -18,6 +18,9 @@
   import About from '$lib/client/components/landing-page/about/About.svelte'
   import ForWho from '$lib/client/components/landing-page/forWho/ForWho.svelte'
   import Advantages from '$lib/client/components/landing-page/advantages/Advantages.svelte'
+  import TheMap from '$lib/client/components/landing-page/whatIs/TheMap.svelte'
+  import Articles from '$lib/client/components/landing-page/about/Articles.svelte'
+  import PrincingFigmaNew from '$lib/client/components/landing-page/pricing/PrincingFigmaNew.svelte'
   
   // console.log(tailwind.theme.colors.primary)
 </script>
@@ -43,8 +46,9 @@
 <About />
 <ForWho />
 <Advantages />
-<Features />
-<Pricing />
+<TheMap />
+<Articles />
+<!-- <Features /> -->
+<!-- <Pricing /> -->
+<PrincingFigmaNew />
 <Footer />
-
-
